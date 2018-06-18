@@ -1,0 +1,68 @@
+<html lang="en"><head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<title>Luke Mernin</title>
+		<link rel="stylesheet" type="text/css" href="styler.css">
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="personalInfo">
+				<h1>Luke Mernin</h1>
+				<h2>3847 Quail Ave N</h2>
+				<h2>Robbinsdale, MN 55422</h2>
+				<h2>763-412-5407</h2>
+			</div>
+
+			<div id="qualities">
+				<p>Driven by personal growth. Confident and excited to start my technology career</p>
+			</div>
+
+			<div id="Experience">Experience
+				<div id="marvinWindows">
+					<h3>Marvin Windows -- Team Lead</h3>
+					<div class="block-date">
+							<h4>July 2011 - June 2017</h4>
+					</div>
+					<div class"block-content"="">
+							<ul>
+								<li>Advanced quickly from entry level ;position to lead supervisor</li>
+								<li>Manged a group of 4-8 employees, organizing and supervising work</li>
+								<li>Ensured optimal product quality while working under aggressive deadlines</li>
+								<li>Protected company and customers financial and personal interests</li>
+							</ul>
+					</div>
+				</div>
+
+
+				<div id="sharperManagement">
+					<h3>Sharper Management -- Association Property Manager</h3>
+					<div class="block-date">
+							<h4>February 2015 - November 2015</h4>
+					</div>
+					<div class"block-content"="">
+							<ul>
+								<li>Managed/Co-managed multiple homeowners associations’ day to day operations, including communication with homeowners and board members.</li>
+								<li>Developed and presented yearly budgets</li>
+								<li>Assisted with quarterly presentations to update/inform homeowners of ongoing/upcoming situations</li>
+							</ul>
+					</div>
+				</div>
+
+
+				<div id="education">
+					<h3>Education</h3>
+					<div class"block-content"="">
+							<ul>
+								<li>North Hennepin Community College -- Associates Degree</li>
+								<li>Kaplan Professional Schools -- MN Real Estate</li>
+							</ul>
+					</div>
+				</div>
+			</div>
+
+
+
+		</div>
+</body>
+</html>
